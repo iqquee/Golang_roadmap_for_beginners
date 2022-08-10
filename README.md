@@ -26,6 +26,9 @@ I must say that this is actually my favourite as I have built lots of APIs using
 
 ### Note: You can decide on which one to go with as they are both an amazing frameworks to use to build API's in Go amongst [others](https://www.cmarix.com/blog/the-best-golang-frameworks-for-the-programmers-in-2022-2023/).
 
+
 ## As a developer always remeber that [Google](https://google.com/) is like your best friend and as such you can always get more resources with a proper google search.
+
+- ### You can get other Go books from [books](/static/books/)
 
 I know how difficult this part can be especially when you are just starting out as a beginner and as such I wouldn't mind putting you through to get to where I am in development with golang. So please feel free to reach out. I would be glad to help.
