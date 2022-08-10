@@ -28,6 +28,4 @@ I must say that this is actually my favourite as I have built lots of APIs using
 
 ## As a developer always remeber that [Google](https://google.com/) is like your best friend and as such you can always get more resources with a proper google search.
 
-I know how difficult this part can be especially when you are just starting out and as such I wouldn't mind putting you through to get to where I am in building API with golang. So please feel free to reach out. I would be glad to help. 
-
-
+I know how difficult this part can be especially when you are just starting out as a beginner and as such I wouldn't mind putting you through to get to where I am in development with golang. So please feel free to reach out. I would be glad to help.
