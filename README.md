@@ -30,7 +30,30 @@ I must say that this is actually my favourite as I have built lots of APIs using
 ### [Gorilla/mux](https://github.com/gorilla/mux) is a powerful HTTP router and URL matcher for building Go web servers 
 - You can head over to [mux](https://github.com/gorilla/mux) for gorilla/mux documentation
 
-## Other [frameworks](https://www.cmarix.com/blog/the-best-golang-frameworks-for-the-programmers-in-2022-2023/).
+## Beego
+### Beego is used for rapid development of enterprise application in Go, including RESTful APIs, web apps and backend services.
+- You can head over to [beego](https://github.com/beego/beego) for beego documentation
+
+## Ravel 
+### A high productivity, full-stack web framework for the Go language.
+- You can head over to [ravel](https://github.com/revel/revel) for ravel documentation
+
+## Chi 
+### chi is a lightweight, idiomatic and composable router for building Go HTTP services. It's especially good at helping you write large REST API services that are kept maintainable as your project grows and changes. chi is built on the new context package introduced in Go 1.7 to handle signaling, cancelation and request-scoped values across a handler chain.
+- You can head over to [chi](https://github.com/go-chi/chi) for chi documentation
+
+## Echo
+### High performance, minimalist Go web framework 
+- You can head over to [echo](https://github.com/labstack/echo) for echo documentation
+
+## Fiber
+### Fiber is an Express inspired web framework built on top of Fasthttp, the fastest HTTP engine for Go. Designed to ease things up for fast development with zero memory allocation and performance in mind. 
+- You can head over to [fiber](https://github.com/gofiber/fiber) for fiber documentation
+
+## Goji
+### Goji is a HTTP request multiplexer, similar to net/http.ServeMux. It compares incoming requests to a list of registered Patterns, and dispatches to the http.Handler that corresponds to the first matching Pattern. Goji also supports Middleware (composable shared functionality applied to every request) and uses the standard context package to store request-scoped values.
+- You can head over to [goji](https://github.com/goji/goji) for goji documentation
+
 # Logging
 - ### [Zap](https://github.com/uber-go/zap) : Blazing fast, structured, leveled logging in Go.
 - ### [Zerolog](https://github.com/rs/zerolog) : The zerolog package provides a fast and simple logger dedicated to JSON output.
