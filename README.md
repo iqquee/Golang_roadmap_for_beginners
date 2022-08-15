@@ -30,13 +30,10 @@ I must say that this is actually my favourite as I have built lots of APIs using
 [Gorilla/mux](https://github.com/gorilla/mux) is a powerful HTTP router and URL matcher for building Go web servers 
 - You can head over to [mux](https://github.com/gorilla/mux) for gorilla/mux documentation
 
+## Note: You can decide on which one to go with as they are both an amazing frameworks to use to build API's in Go amongst [others](https://www.cmarix.com/blog/the-best-golang-frameworks-for-the-programmers-in-2022-2023/).
 # Logging
 - ### Zap: Blazing fast, structured, leveled logging in Go. You can see the docs [here](https://github.com/uber-go/zap)
 - ### Zerolog: The zerolog package provides a fast and simple logger dedicated to JSON output. You can see the docs [here](https://github.com/rs/zerolog)
-
-
-### Note: You can decide on which one to go with as they are both an amazing frameworks to use to build API's in Go amongst [others](https://www.cmarix.com/blog/the-best-golang-frameworks-for-the-programmers-in-2022-2023/).
-
 
 ## As a developer always remeber that [Google](https://google.com/) is like your best friend and as such you can always get more resources with a proper google search.
 
