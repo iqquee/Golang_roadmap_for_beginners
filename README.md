@@ -1,4 +1,4 @@
-![go](/static/go.png)
+![go](/static/golang.png)
 
 # Golang roadmap for beginners
 This repo was created to serve as a guide to developers who intend to go into backend developemt with GOLANG. It contains reference to the resources I used while I started out my journey as a Go developer
