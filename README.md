@@ -22,7 +22,6 @@ This repo was created to serve as a guide to developers who intend to go into ba
 ## Gin
 
 ### [Gin](https://gin-gonic.com) is a web framework written in Golang. It features a Martini-like API, but with performance up to 40 times faster than Martini. If you need performance and productivity, you will love Gin. 
-I must say that this is actually my favourite as I have built lots of APIs using Gin
 - You can head over to [docs](https://gin-gonic.com) for gin documentation or  [gin github repo](https://github.com/gin-gonic/gin)
 
 ## Gorilla/mux
