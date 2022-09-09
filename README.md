@@ -3,6 +3,12 @@
 # Golang roadmap for beginners
 This repo was created to serve as a guide to developers who intend to go into backend developemt with GOLANG. It contains reference to the resources I used while I started out my journey as a Go developer
 
+
+# Basic knowledge of:
+- ### HTML
+- ### CSS
+### You can check out [w3schools](https://w3schools.com) for tutorials on HTML5 and CSS3
+
 # Git
 - ### Git is free and open source software for distributed version control: tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development. Its goals include speed, data integrity, and support for distributed, non-linear workflows (thousands of parallel branches running on different systems) 
 
