@@ -1,7 +1,7 @@
 ![go](/static/golang.png)
 
 # Golang roadmap for beginners
-This repo was created to serve as a guide to developers who intend to go into backend developemt with GOLANG. It contains reference to the resources that could help you get started on your adventurous journey :)
+This repo was created to serve as a guide to developers who intend to go into backend development with GOLANG. It contains reference to some resources that could help you get started on your adventurous journey :)
 
 
 # Basic knowledge of:
