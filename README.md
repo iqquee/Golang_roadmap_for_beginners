@@ -30,6 +30,10 @@ This repo was created to serve as a guide to developers who intend to go into ba
 ### [Gin](https://gin-gonic.com) is a web framework written in Golang. It features a Martini-like API, but with performance up to 40 times faster than Martini. If you need performance and productivity, you will love Gin. 
 - You can head over to [docs](https://gin-gonic.com) for gin documentation or  [gin github repo](https://github.com/gin-gonic/gin)
 
+- ## Tutorials 
+- #### [https://www.youtube.com/playlist?list=PL5dTjWUk_cPY7Q2VTnMbbl8n-H4YDI5wF](https://www.youtube.com/playlist?list=PL5dTjWUk_cPY7Q2VTnMbbl8n-H4YDI5wF)
+- ### [https://medium.com/readytowork-org/secure-your-go-web-application-jwt-authentication-e65a5af7c049](https://medium.com/readytowork-org/secure-your-go-web-application-jwt-authentication-e65a5af7c049)
+
 ## Gorilla/mux
 
 ### [Gorilla/mux](https://github.com/gorilla/mux) is a powerful HTTP router and URL matcher for building Go web servers 
