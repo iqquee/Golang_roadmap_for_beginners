@@ -63,6 +63,24 @@ This repo was created to serve as a guide to developers who intend to go into ba
 - ### [Zap](https://github.com/uber-go/zap) : Blazing fast, structured, leveled logging in Go.
 - ### [Zerolog](https://github.com/rs/zerolog) : The zerolog package provides a fast and simple logger dedicated to JSON output.
 
+# List of Tutorials you can follow to get your hands dirty
+# Gin
+- ## Tutorial Articles
+- ### [https://masteringbackend.com/posts/gin-framework](https://masteringbackend.com/posts/gin-framework)
+- ### [https://dev.to/dsysd_dev/how-to-use-gin-framework-in-golang-for-web-development-12nf](https://dev.to/dsysd_dev/how-to-use-gin-framework-in-golang-for-web-development-12nf)
+- ### [https://medium.com/@wattanai.tha/go-tutorial-series-ep-1-building-rest-api-with-gin-7c17c7ab1d5b](https://medium.com/@wattanai.tha/go-tutorial-series-ep-1-building-rest-api-with-gin-7c17c7ab1d5b)
+- ### [https://code.pieces.app/blog/how-to-build-and-document-a-go-rest-api-with-gin-and-go-swagger](https://code.pieces.app/blog/how-to-build-and-document-a-go-rest-api-with-gin-and-go-swagger)
+- ### [https://tutorialedge.net/course/golang/](https://tutorialedge.net/course/golang/)
+- ## Tutorial Videos
+- ### [https://www.youtube.com/watch?v=qR0WnWL2o1Q&list=PL3eAkoh7fypr8zrkiygiY1e9osoqjoV9w](https://www.youtube.com/watch?v=qR0WnWL2o1Q&list=PL3eAkoh7fypr8zrkiygiY1e9osoqjoV9w)
+
+# Chi
+- ### coming soon...
+
+## Other video tutorials
+- ### [https://www.youtube.com/@AkhilSharmaTech](https://www.youtube.com/@AkhilSharmaTech)
+- ### [https://www.youtube.com/@anthonygg_](https://www.youtube.com/@anthonygg_)
+
 ## As a developer always remeber that [Google](https://google.com/) is like your best friend and as such you can always get more resources with a proper google search.
 
 - ### Watch out, there is such a thing as TUTORIAL HELL and alot of us get stuck in it for a very long time including myself (I was when I started out as a Go developer). So watch out and try not to get stuck on going through a tutorial over and over again because you still feel incompetent. You wouldnt know what you are capable of just yet not until you have built something with the current knowledge you already acquired. It is always said that the best way to learn is actually by doing (atleast that was true in my own case). So build something.
